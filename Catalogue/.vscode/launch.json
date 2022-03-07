@@ -10,7 +10,7 @@
 			"request": "launch",
 			"preLaunchTask": "build",
 			// If you have changed target frameworks, make sure to update the program path.
-			"program": "${workspaceFolder}/Catalogue/bin/Debug/netcoreapp3.1/Catalogue.dll",
+			"program": "${workspaceFolder}/Catalogue/bin/Debug/net5.0/Catalogue.dll",
 			"args": [],
 			"cwd": "${workspaceFolder}/Catalogue",
 			"stopAtEntry": false,
